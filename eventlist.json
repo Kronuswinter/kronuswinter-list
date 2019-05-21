@@ -96,6 +96,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "wandererjoins",
+		"price": 100000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
@@ -123,7 +128,7 @@
 	{
 		"abr": "meteor",
 		"price": 150,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "maninblack",
@@ -297,14 +302,34 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "prisoner",
 		"price": 1000,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "taskforce141",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "theghosts",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "umbracompany",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "MSF",
+		"price": 1500,
+		"karmatype": "Good"
 	}
 	],
-	"total": 61
+	"total": 66
 }
