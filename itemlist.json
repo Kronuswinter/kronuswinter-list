@@ -1783,12 +1783,6 @@
 		"defname": "Gun_AntiMaterielRifle"
 	},
 	{
-		"abr": "arcademachine",
-		"price": 650,
-		"category": "Recreation",
-		"defname": "Joy_Arcade"
-	},
-	{
 		"abr": "automaticbattlerifle",
 		"price": 683,
 		"category": "Ranged weapons",
@@ -1805,12 +1799,6 @@
 		"price": 683,
 		"category": "Ranged weapons",
 		"defname": "Gun_BattleRifle"
-	},
-	{
-		"abr": "bench",
-		"price": 86,
-		"category": "Furniture",
-		"defname": "Seat_Bench"
 	},
 	{
 		"abr": "bolt-actionpistol",
@@ -1867,24 +1855,6 @@
 		"defname": "Gun_ConvertedBoltActionRifle"
 	},
 	{
-		"abr": "countertop",
-		"price": 53,
-		"category": "Furniture",
-		"defname": "Table_Counter"
-	},
-	{
-		"abr": "cryptosleepsuspender",
-		"price": 733,
-		"category": "Furniture",
-		"defname": "Bed_CryptoBed"
-	},
-	{
-		"abr": "dartsboard",
-		"price": 174,
-		"category": "Furniture",
-		"defname": "Joy_DartsBoard"
-	},
-	{
 		"abr": "defencerifle",
 		"price": 700,
 		"category": "Ranged weapons",
@@ -1907,30 +1877,6 @@
 		"price": 567,
 		"category": "Production",
 		"defname": "TableStonecutterElectric"
-	},
-	{
-		"abr": "ergonomicbed",
-		"price": 450,
-		"category": "Furniture",
-		"defname": "Bed_Ergonomic"
-	},
-	{
-		"abr": "ergonomicchair",
-		"price": 858,
-		"category": "Furniture",
-		"defname": "Seat_ModernChair"
-	},
-	{
-		"abr": "ergonomicdoublebed",
-		"price": 867,
-		"category": "Furniture",
-		"defname": "Bed_DoubleErgonomic"
-	},
-	{
-		"abr": "filecabinet",
-		"price": 93,
-		"category": "Furniture",
-		"defname": "Misc_FileCabinet"
 	},
 	{
 		"abr": "gaussmachinegun",
@@ -1981,46 +1927,16 @@
 		"defname": "Gun_ImprovisedRifle"
 	},
 	{
-		"abr": "industrialradio",
-		"price": 433,
-		"category": "Recreation",
-		"defname": "Radio_Industrial"
-	},
-	{
 		"abr": "infantryautomaticrifle",
 		"price": 792,
 		"category": "Ranged weapons",
 		"defname": "Gun_InfantryAutomaticRifle"
 	},
 	{
-		"abr": "intravenousdripstand",
-		"price": 296,
-		"category": "Misc",
-		"defname": "Facility_IVDrip"
-	},
-	{
 		"abr": "katana",
 		"price": 483,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Katana"
-	},
-	{
-		"abr": "largebin",
-		"price": 305,
-		"category": "Furniture",
-		"defname": "Bin_Large"
-	},
-	{
-		"abr": "largecommonchest",
-		"price": 583,
-		"category": "Loot boxes",
-		"defname": "LootBoxSilverLarge"
-	},
-	{
-		"abr": "largegoldenchest",
-		"price": 1500,
-		"category": "Loot boxes",
-		"defname": "LootBoxGoldLarge"
 	},
 	{
 		"abr": "largelever-actionrifle",
@@ -2059,12 +1975,6 @@
 		"defname": "Gun_LightCombatRifle"
 	},
 	{
-		"abr": "longwaveradio",
-		"price": 1033,
-		"category": "Recreation",
-		"defname": "Radio_Spacer"
-	},
-	{
 		"abr": "matchlockarquebus",
 		"price": 241,
 		"category": "Ranged weapons",
@@ -2075,18 +1985,6 @@
 		"price": 208,
 		"category": "Ranged weapons",
 		"defname": "Gun_MatchlockPistol"
-	},
-	{
-		"abr": "moderncomputer",
-		"price": 1100,
-		"category": "Recreation",
-		"defname": "Joy_ModernComputer"
-	},
-	{
-		"abr": "modernlamp",
-		"price": 129,
-		"category": "Furniture",
-		"defname": "Light_ModernLamp"
 	},
 	{
 		"abr": "modernisedarquebus",
@@ -2143,46 +2041,10 @@
 		"defname": "Turret_VintageGPMGTurret"
 	},
 	{
-		"abr": "mysteriousredchest",
-		"price": 175,
-		"category": "Production",
-		"defname": "LootBoxBench"
-	},
-	{
-		"abr": "oldcomputer",
-		"price": 517,
-		"category": "Recreation",
-		"defname": "Joy_InudstrialComputer"
-	},
-	{
-		"abr": "operatingtable",
-		"price": 508,
-		"category": "Furniture",
-		"defname": "Bed_OperatingTable"
-	},
-	{
-		"abr": "outdoorlamp",
-		"price": 128,
-		"category": "Furniture",
-		"defname": "Light_Streetlamp"
-	},
-	{
-		"abr": "pandorasbox",
-		"price": 667,
-		"category": "Loot boxes",
-		"defname": "LootBoxPandora"
-	},
-	{
 		"abr": "personalisedbullpuppdw",
 		"price": 600,
 		"category": "Ranged weapons",
 		"defname": "Gun_PersonalisedBullpupPDW"
-	},
-	{
-		"abr": "piano",
-		"price": 908,
-		"category": "Furniture",
-		"defname": "Joy_Piano"
 	},
 	{
 		"abr": "polymerbullpuprifle",
@@ -2209,12 +2071,6 @@
 		"defname": "Gun_PrototypeRifle"
 	},
 	{
-		"abr": "punchingbag",
-		"price": 375,
-		"category": "Furniture",
-		"defname": "Joy_PunchingBag"
-	},
-	{
 		"abr": "reconrifle",
 		"price": 750,
 		"category": "Ranged weapons",
@@ -2225,72 +2081,6 @@
 		"price": 583,
 		"category": "Ranged weapons",
 		"defname": "Gun_RiotShotgun"
-	},
-	{
-		"abr": "roulettetable",
-		"price": 708,
-		"category": "Furniture",
-		"defname": "Joy_RouletteTable"
-	},
-	{
-		"abr": "royalarmchair",
-		"price": 1583,
-		"category": "Furniture",
-		"defname": "Seat_RoyalArmchair"
-	},
-	{
-		"abr": "royalchair",
-		"price": 908,
-		"category": "Furniture",
-		"defname": "Seat_RoyalChair"
-	},
-	{
-		"abr": "royaldresser",
-		"price": 1175,
-		"category": "Furniture",
-		"defname": "Table_RoyalDresser"
-	},
-	{
-		"abr": "royalendtable",
-		"price": 742,
-		"category": "Furniture",
-		"defname": "Table_RoyalEndTable"
-	},
-	{
-		"abr": "royalposterbed",
-		"price": 2008,
-		"category": "Furniture",
-		"defname": "Bed_Kingsize"
-	},
-	{
-		"abr": "royaltable(1x1)",
-		"price": 280,
-		"category": "Furniture",
-		"defname": "Table_Royal1x1c"
-	},
-	{
-		"abr": "royaltable(1x2)",
-		"price": 542,
-		"category": "Furniture",
-		"defname": "Table_Royal1x2c"
-	},
-	{
-		"abr": "royaltable(2x2)",
-		"price": 1092,
-		"category": "Furniture",
-		"defname": "Table_Royal2x2c"
-	},
-	{
-		"abr": "royaltable(2x4)",
-		"price": 1475,
-		"category": "Furniture",
-		"defname": "Table_Royal2x4c"
-	},
-	{
-		"abr": "royaltable(3x3)",
-		"price": 1617,
-		"category": "Furniture",
-		"defname": "Table_Royal3x3c"
 	},
 	{
 		"abr": "ruggedassaultrifle",
@@ -2339,48 +2129,6 @@
 		"price": 717,
 		"category": "Ranged weapons",
 		"defname": "Gun_ServiceRifle"
-	},
-	{
-		"abr": "shelf(1x1)",
-		"price": 52,
-		"category": "Furniture",
-		"defname": "Shelf_1x1c"
-	},
-	{
-		"abr": "simplebed",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "Bed_Simple"
-	},
-	{
-		"abr": "sittingcushion",
-		"price": 86,
-		"category": "Furniture",
-		"defname": "Seat_Cushion"
-	},
-	{
-		"abr": "slabbed",
-		"price": 111,
-		"category": "Furniture",
-		"defname": "Bed_StoneSlab"
-	},
-	{
-		"abr": "smallbin",
-		"price": 136,
-		"category": "Furniture",
-		"defname": "Bin_Small"
-	},
-	{
-		"abr": "smallcommonchest",
-		"price": 133,
-		"category": "Loot boxes",
-		"defname": "LootBoxSilverSmall"
-	},
-	{
-		"abr": "smallgoldenchest",
-		"price": 500,
-		"category": "Loot boxes",
-		"defname": "LootBoxGoldSmall"
 	},
 	{
 		"abr": "smallsculpture",
@@ -2448,6 +2196,792 @@
 		"category": "Ranged weapons",
 		"defname": "Gun_SportingRifle"
 	},
+	{
+		"abr": "ancientconcretebarrier",
+		"price": 51,
+		"category": "Uncategorized",
+		"defname": "AncientConcreteBarrier"
+	},
+	{
+		"abr": "ancientcryptosleepcasket",
+		"price": 617,
+		"category": "Uncategorized",
+		"defname": "AncientCryptosleepCasket"
+	},
+	{
+		"abr": "ancientlamppost",
+		"price": 50,
+		"category": "Uncategorized",
+		"defname": "AncientLamppost"
+	},
+	{
+		"abr": "autocannonturret",
+		"price": 2117,
+		"category": "Uncategorized",
+		"defname": "Turret_Autocannon"
+	},
+	{
+		"abr": "autodoor",
+		"price": 323,
+		"category": "Uncategorized",
+		"defname": "Autodoor"
+	},
+	{
+		"abr": "biofuelrefinery",
+		"price": 650,
+		"category": "Uncategorized",
+		"defname": "BiofuelRefinery"
+	},
+	{
+		"abr": "campfire",
+		"price": 41,
+		"category": "Uncategorized",
+		"defname": "Campfire"
+	},
+	{
+		"abr": "chemfuelpoweredgenerator",
+		"price": 492,
+		"category": "Uncategorized",
+		"defname": "ChemfuelPoweredGenerator"
+	},
+	{
+		"abr": "commsconsole",
+		"price": 608,
+		"category": "Uncategorized",
+		"defname": "CommsConsole"
+	},
+	{
+		"abr": "cooler",
+		"price": 458,
+		"category": "Uncategorized",
+		"defname": "Cooler"
+	},
+	{
+		"abr": "cryptosleepcasket",
+		"price": 1183,
+		"category": "Uncategorized",
+		"defname": "CryptosleepCasket"
+	},
+	{
+		"abr": "door",
+		"price": 88,
+		"category": "Uncategorized",
+		"defname": "Door"
+	},
+	{
+		"abr": "electriccrematorium",
+		"price": 700,
+		"category": "Uncategorized",
+		"defname": "ElectricCrematorium"
+	},
+	{
+		"abr": "embrasure",
+		"price": 54,
+		"category": "Uncategorized",
+		"defname": "ED_Embrasure"
+	},
+	{
+		"abr": "fabricationbench",
+		"price": 1967,
+		"category": "Uncategorized",
+		"defname": "FabricationBench"
+	},
+	{
+		"abr": "furnace",
+		"price": 1458,
+		"category": "Uncategorized",
+		"defname": "Furnace"
+	},
+	{
+		"abr": "geothermalgenerator",
+		"price": 1575,
+		"category": "Uncategorized",
+		"defname": "GeothermalGenerator"
+	},
+	{
+		"abr": "grave",
+		"price": 5,
+		"category": "Uncategorized",
+		"defname": "Grave"
+	},
+	{
+		"abr": "ground-penetratingscanner",
+		"price": 1692,
+		"category": "Uncategorized",
+		"defname": "GroundPenetratingScanner"
+	},
+	{
+		"abr": "hi-techresearchbench",
+		"price": 1383,
+		"category": "Uncategorized",
+		"defname": "HiTechResearchBench"
+	},
+	{
+		"abr": "hopper",
+		"price": 49,
+		"category": "Uncategorized",
+		"defname": "Hopper"
+	},
+	{
+		"abr": "hydroponicsbasin",
+		"price": 383,
+		"category": "Uncategorized",
+		"defname": "HydroponicsBasin"
+	},
+	{
+		"abr": "industrialvent",
+		"price": 169,
+		"category": "Uncategorized",
+		"defname": "ThermalVent"
+	},
+	{
+		"abr": "long-rangemineralscanner",
+		"price": 1625,
+		"category": "Uncategorized",
+		"defname": "LongRangeMineralScanner"
+	},
+	{
+		"abr": "moisturepump",
+		"price": 458,
+		"category": "Uncategorized",
+		"defname": "MoisturePump"
+	},
+	{
+		"abr": "nutrientpastedispenser",
+		"price": 458,
+		"category": "Uncategorized",
+		"defname": "NutrientPasteDispenser"
+	},
+	{
+		"abr": "passivecooler",
+		"price": 101,
+		"category": "Uncategorized",
+		"defname": "PassiveCooler"
+	},
+	{
+		"abr": "plantspot",
+		"price": 51,
+		"category": "Uncategorized",
+		"defname": "Anon2PlantSpot"
+	},
+	{
+		"abr": "podlauncher",
+		"price": 230,
+		"category": "Uncategorized",
+		"defname": "PodLauncher"
+	},
+	{
+		"abr": "powerconduit",
+		"price": 3,
+		"category": "Uncategorized",
+		"defname": "PowerConduit"
+	},
+	{
+		"abr": "powerswitch",
+		"price": 102,
+		"category": "Uncategorized",
+		"defname": "PowerSwitch"
+	},
+	{
+		"abr": "sandbags",
+		"price": 17,
+		"category": "Uncategorized",
+		"defname": "Sandbags"
+	},
+	{
+		"abr": "sarcophagus",
+		"price": 214,
+		"category": "Uncategorized",
+		"defname": "Sarcophagus"
+	},
+	{
+		"abr": "sensorcluster",
+		"price": 3008,
+		"category": "Uncategorized",
+		"defname": "Ship_SensorCluster"
+	},
+	{
+		"abr": "shipchunk",
+		"price": 783,
+		"category": "Uncategorized",
+		"defname": "ShipChunk"
+	},
+	{
+		"abr": "shipcomputercore",
+		"price": 9742,
+		"category": "Uncategorized",
+		"defname": "Ship_ComputerCore"
+	},
+	{
+		"abr": "shipcryptosleepcasket",
+		"price": 1725,
+		"category": "Uncategorized",
+		"defname": "Ship_CryptosleepCasket"
+	},
+	{
+		"abr": "shipengine",
+		"price": 5925,
+		"category": "Uncategorized",
+		"defname": "Ship_Engine"
+	},
+	{
+		"abr": "shipreactor",
+		"price": 9067,
+		"category": "Uncategorized",
+		"defname": "Ship_Reactor"
+	},
+	{
+		"abr": "shipstructuralbeam",
+		"price": 1775,
+		"category": "Uncategorized",
+		"defname": "Ship_Beam"
+	},
+	{
+		"abr": "smokehouse",
+		"price": 450,
+		"category": "Uncategorized",
+		"defname": "SmokeHouse"
+	},
+	{
+		"abr": "smokepit",
+		"price": 21,
+		"category": "Uncategorized",
+		"defname": "Smokepit"
+	},
+	{
+		"abr": "smoothedgranite",
+		"price": 33,
+		"category": "Uncategorized",
+		"defname": "SmoothedGranite"
+	},
+	{
+		"abr": "smoothedlimestone",
+		"price": 33,
+		"category": "Uncategorized",
+		"defname": "SmoothedLimestone"
+	},
+	{
+		"abr": "smoothedmarble",
+		"price": 42,
+		"category": "Uncategorized",
+		"defname": "SmoothedMarble"
+	},
+	{
+		"abr": "smoothedsandstone",
+		"price": 30,
+		"category": "Uncategorized",
+		"defname": "SmoothedSandstone"
+	},
+	{
+		"abr": "smoothedslate",
+		"price": 33,
+		"category": "Uncategorized",
+		"defname": "SmoothedSlate"
+	},
+	{
+		"abr": "solargenerator",
+		"price": 492,
+		"category": "Uncategorized",
+		"defname": "SolarGenerator"
+	},
+	{
+		"abr": "squarediningchair",
+		"price": 186,
+		"category": "Furniture",
+		"defname": "Anon2SquareDiningChair"
+	},
+	{
+		"abr": "squareplantpot",
+		"price": 53,
+		"category": "Furniture",
+		"defname": "Anon2SquarePlantPot"
+	},
+	{
+		"abr": "squirrelmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Squirrel"
+	},
+	{
+		"abr": "standinglamp",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "StandingLamp"
+	},
+	{
+		"abr": "standinglamp(aqua)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "StandingLamp_Aqua"
+	},
+	{
+		"abr": "standinglamp(blue)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "StandingLamp_Blue"
+	},
+	{
+		"abr": "5.11tactecbodyarmor(contractor)",
+		"price": 400,
+		"category": "Body armor",
+		"defname": "RNApparel_511TacTec_Contractor"
+	},
+	{
+		"abr": "ammocanstool",
+		"price": 53,
+		"category": "Furniture",
+		"defname": "CP_AmmoStool"
+	},
+	{
+		"abr": "ammocratetable(1x2)",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "CP_AmmoCrateTable1x2c"
+	},
+	{
+		"abr": "armchaircommander",
+		"price": 483,
+		"category": "Furniture",
+		"defname": "CP_ArmchairCommander"
+	},
+	{
+		"abr": "blackhatstation",
+		"price": 750,
+		"category": "Production",
+		"defname": "CP_BlackHatStation"
+	},
+	{
+		"abr": "chairforce",
+		"price": 450,
+		"category": "Furniture",
+		"defname": "CP_ChairforceChair"
+	},
+	{
+		"abr": "chewysweets(harrybos)",
+		"price": 5,
+		"category": "Foods",
+		"defname": "CP_Sweets_Harrybos"
+	},
+	{
+		"abr": "chocolate(dailymilk)",
+		"price": 5,
+		"category": "Foods",
+		"defname": "CP_Chocolate_DailyMilk"
+	},
+	{
+		"abr": "combatuniforma-tacsfg",
+		"price": 332,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_ATACSFG"
+	},
+	{
+		"abr": "doublemilitarycotbed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "CP_DoubleMilitaryCotBed"
+	},
+	{
+		"abr": "doublesleepingbags",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "CP_DoubleCamoBedroll"
+	},
+	{
+		"abr": "energybar(ricekrispies)",
+		"price": 5,
+		"category": "Foods",
+		"defname": "CP_EnergyBar_RiceKrispies"
+	},
+	{
+		"abr": "foldingcanvaschair",
+		"price": 131,
+		"category": "Furniture",
+		"defname": "CP_CanvasChair"
+	},
+	{
+		"abr": "footlocker",
+		"price": 168,
+		"category": "Furniture",
+		"defname": "CP_FootlockerSmall"
+	},
+	{
+		"abr": "hobostew",
+		"price": 25,
+		"category": "Meals",
+		"defname": "CP_HoboStew"
+	},
+	{
+		"abr": "ifak",
+		"price": 30,
+		"category": "Medicine",
+		"defname": "RNMedicine_IFAK_Multicam"
+	},
+	{
+		"abr": "instrumenttable",
+		"price": 367,
+		"category": "Misc",
+		"defname": "CP_InstrumentTable"
+	},
+	{
+		"abr": "ivsupport",
+		"price": 450,
+		"category": "Misc",
+		"defname": "CP_IVSupport"
+	},
+	{
+		"abr": "mailboxtradebeacon",
+		"price": 68,
+		"category": "Misc",
+		"defname": "CP_MailboxTradeBeacon"
+	},
+	{
+		"abr": "maxibreakfast",
+		"price": 67,
+		"category": "Meals",
+		"defname": "Maxi_Breakfast"
+	},
+	{
+		"abr": "maxiburger",
+		"price": 33,
+		"category": "Meals",
+		"defname": "Maxi_Burger"
+	},
+	{
+		"abr": "maxifries",
+		"price": 33,
+		"category": "Meals",
+		"defname": "Maxi_Fries"
+	},
+	{
+		"abr": "maximeal",
+		"price": 67,
+		"category": "Meals",
+		"defname": "Maxi_Meal"
+	},
+	{
+		"abr": "maxisalad",
+		"price": 67,
+		"category": "Meals",
+		"defname": "Maxi_Salad"
+	},
+	{
+		"abr": "maxi-cola",
+		"price": 667,
+		"category": "Drugs",
+		"defname": "CP_MaxiCola"
+	},
+	{
+		"abr": "medicbag",
+		"price": 30,
+		"category": "Medicine",
+		"defname": "RNMedicine_MedicBag"
+	},
+	{
+		"abr": "medicalbed",
+		"price": 667,
+		"category": "Furniture",
+		"defname": "CP_MedicalBed"
+	},
+	{
+		"abr": "medicalstretcher",
+		"price": 500,
+		"category": "Furniture",
+		"defname": "CP_MedicalStretcher"
+	},
+	{
+		"abr": "medicalventilator",
+		"price": 800,
+		"category": "Misc",
+		"defname": "CP_MedicalVentilator"
+	},
+	{
+		"abr": "militarychemfuelgenerator",
+		"price": 608,
+		"category": "Uncategorized",
+		"defname": "TacticalDieselGenerator"
+	},
+	{
+		"abr": "militarycotbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "CP_MilitaryCotBed"
+	},
+	{
+		"abr": "militaryradio",
+		"price": 608,
+		"category": "Misc",
+		"defname": "MilitaryRadioRC"
+	},
+	{
+		"abr": "miller'smaxibunmachine",
+		"price": 658,
+		"category": "Uncategorized",
+		"defname": "RNVendingMachine_MaxiBuns"
+	},
+	{
+		"abr": "minifloodlight",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "CP_FloodlightSmall"
+	},
+	{
+		"abr": "missionboard",
+		"price": 307,
+		"category": "Special",
+		"defname": "MissionBoardRC"
+	},
+	{
+		"abr": "mrebritish",
+		"price": 67,
+		"category": "MRE Rations",
+		"defname": "RN_MRE_British"
+	},
+	{
+		"abr": "mrecanadian",
+		"price": 67,
+		"category": "MRE Rations",
+		"defname": "RN_MRE_Canadian"
+	},
+	{
+		"abr": "mreration",
+		"price": 67,
+		"category": "MRE Rations",
+		"defname": "RN_MRE_Civilian"
+	},
+	{
+		"abr": "mrerussian",
+		"price": 67,
+		"category": "MRE Rations",
+		"defname": "RN_MRE_Russian"
+	},
+	{
+		"abr": "mreusarmy",
+		"price": 67,
+		"category": "MRE Rations",
+		"defname": "RN_MRE_USArmy"
+	},
+	{
+		"abr": "mreusmc",
+		"price": 67,
+		"category": "MRE Rations",
+		"defname": "RN_MRE_USMC"
+	},
+	{
+		"abr": "nukacolamachine",
+		"price": 658,
+		"category": "Uncategorized",
+		"defname": "RNVendingMachine_NukaCola"
+	},
+	{
+		"abr": "nuka-cola",
+		"price": 88,
+		"category": "Drugs",
+		"defname": "CP_NukaCola"
+	},
+	{
+		"abr": "nuka-colaquantum",
+		"price": 133,
+		"category": "Drugs",
+		"defname": "CP_NukaColaQuantum"
+	},
+	{
+		"abr": "officelamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CP_OfficeLamp"
+	},
+	{
+		"abr": "officelamp(blue)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CP_OfficeLampBlue"
+	},
+	{
+		"abr": "officelamp(green)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CP_OfficeLampGreen"
+	},
+	{
+		"abr": "officelamp(orange)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CP_OfficeLampOrange"
+	},
+	{
+		"abr": "officelamp(purple)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CP_OfficeLampPurple"
+	},
+	{
+		"abr": "officelamp(red)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CP_OfficeLampRed"
+	},
+	{
+		"abr": "officelamp(yellow)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CP_OfficeLampYellow"
+	},
+	{
+		"abr": "parkaa-tacsfg",
+		"price": 315,
+		"category": "Combat jackets",
+		"defname": "RNApparel_Parka_ATACSFG"
+	},
+	{
+		"abr": "pccommsdesk",
+		"price": 483,
+		"category": "Misc",
+		"defname": "CP_PCCommsStation"
+	},
+	{
+		"abr": "pcresearchdesk",
+		"price": 600,
+		"category": "Uncategorized",
+		"defname": "CP_ResearchStation"
+	},
+	{
+		"abr": "portablechemfuelgenerator",
+		"price": 301,
+		"category": "Misc",
+		"defname": "PortableDieselGenerator"
+	},
+	{
+		"abr": "portablestove",
+		"price": 49,
+		"category": "Misc",
+		"defname": "CP_PortableStove"
+	},
+	{
+		"abr": "potatochips(cheeseandonion)",
+		"price": 5,
+		"category": "Foods",
+		"defname": "CP_Chips_CheeseAndOnion"
+	},
+	{
+		"abr": "potatochips(readysalted)",
+		"price": 5,
+		"category": "Foods",
+		"defname": "CP_Chips_Salted"
+	},
+	{
+		"abr": "pta-bravohelmetolive",
+		"price": 450,
+		"category": "Helmets",
+		"defname": "RNApparel_PTABravoHelmet_ANVIL"
+	},
+	{
+		"abr": "radio(fallout)",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "RedHorse_FalloutRadio"
+	},
+	{
+		"abr": "radio(portal)",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "RedHorse_PortalRadio"
+	},
+	{
+		"abr": "radio(stalker)",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "RedHorse_STALKERRadio"
+	},
+	{
+		"abr": "radio(tacticool)",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "RedHorse_TacticoolRadio"
+	},
+	{
+		"abr": "redphone",
+		"price": 425,
+		"category": "Misc",
+		"defname": "RedPhoneRC"
+	},
+	{
+		"abr": "servertower",
+		"price": 269,
+		"category": "Misc",
+		"defname": "CP_ServerTower"
+	},
+	{
+		"abr": "sleepingbagm81",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "CP_M81Bedroll"
+	},
+	{
+		"abr": "sleepingbagmulticam",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "CP_M81MulticamBedroll"
+	},
+	{
+		"abr": "standinglamp(green)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "StandingLamp_Green"
+	},
+	{
+		"abr": "standinglamp(lime)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "StandingLamp_Lime"
+	},
+	{
+		"abr": "standinglamp(magenta)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "StandingLamp_Magenta"
+	},
+	{
+		"abr": "standinglamp(orange)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "StandingLamp_Orange"
+	},
+	{
+		"abr": "standinglamp(purple)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "StandingLamp_Purple"
+	},
+	{
+		"abr": "standinglamp(red)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "StandingLamp_Red"
+	},
+	{
+		"abr": "standinglamp(yellow)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "StandingLamp_Yellow"
+	},
+	{
+		"abr": "steel",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "Steel"
+	},
+	{
+		"abr": "stonecutter'stable",
+		"price": 358,
+		"category": "Production",
+		"defname": "TableStonecutter"
+	},
+	{
+		"abr": "stool",
+		"price": 86,
+		"category": "Furniture",
+		"defname": "Stool"
+	},
 	],
-	"total": 492
+	"total": 578
 }
