@@ -7174,8 +7174,212 @@
 		"abr": "wexflamethrower",
 		"price": 1383,
 		"category": "Weapon",
-		"defname": "Gun_WEX_KA" 
-	
+		"defname": "Gun_WEX_KA"
+	},
 	{
-	"total": 1549
+		"abr": "gausscannonturret",
+		"price": 8325,
+		"category": "",
+		"defname": "TAUGaussCannon"
+	},
+	{
+		"abr": "missileturret",
+		"price": 8325,
+		"category": "",
+		"defname": "TAUMisslePod"
+	},
+	{
+		"abr": "aquaculturebasin",
+		"price": 800,
+		"category": "",
+		"defname": "AquacultureBasin"
+	},
+	{
+		"abr": "astartesoven",
+		"price": 8117,
+		"category": "",
+		"defname": "SpacemarineConversionDeviceRH"
+	},
+	{
+		"abr": "brightlanceturret",
+		"price": 8350,
+		"category": "",
+		"defname": "ELDBrightlance"
+	},
+	{
+		"abr": "eldaraegiswall",
+		"price": 36,
+		"category": "",
+		"defname": "ELD_Aegis"
+	},
+	{
+		"abr": "fishingpier",
+		"price": 400,
+		"category": "",
+		"defname": "FishingPier"
+	},
+	{
+		"abr": "gaussconduit",
+		"price": 17,
+		"category": "",
+		"defname": "GaussConduit"
+	},
+	{
+		"abr": "gaussconduit(blue)",
+		"price": 34,
+		"category": "",
+		"defname": "GaussConduitGlowingBlue"
+	},
+	{
+		"abr": "gaussconduit(green)",
+		"price": 34,
+		"category": "",
+		"defname": "GaussConduitGlowing"
+	},
+	{
+		"abr": "gaussconduit(orange)",
+		"price": 34,
+		"category": "",
+		"defname": "GaussConduitGlowingOrange"
+	},
+	{
+		"abr": "hamsterwheelgenerator",
+		"price": 708,
+		"category": "",
+		"defname": "RK_HamsterWheelGenerator"
+	},
+	{
+		"abr": "heavyflameremplacement",
+		"price": 10825,
+		"category": "",
+		"defname": "IGStationaryFlamer"
+	},
+	{
+		"abr": "heavyplasmaemplacement",
+		"price": 10825,
+		"category": "",
+		"defname": "IGStationaryPlasma"
+	},
+	{
+		"abr": "igaegiswall",
+		"price": 20,
+		"category": "",
+		"defname": "IG_Aegis"
+	},
+	{
+		"abr": "largeeldargenerator",
+		"price": 1525,
+		"category": "",
+		"defname": "EldGenerator_B_Large"
+	},
+	{
+		"abr": "largegaussgenerator",
+		"price": 5858,
+		"category": "",
+		"defname": "GaussGenerator_B_Large"
+	},
+	{
+		"abr": "largeimperialgenerator",
+		"price": 3933,
+		"category": "",
+		"defname": "ImpGenerator_B_Large"
+	},
+	{
+		"abr": "largeorkgenerator",
+		"price": 1525,
+		"category": "",
+		"defname": "OrkGenerator_B_Large"
+	},
+	{
+		"abr": "largetaugenerator",
+		"price": 1525,
+		"category": "",
+		"defname": "TauGenerator_B_Large"
+	},
+	{
+		"abr": "mainbattlecannonemplacement",
+		"price": 10825,
+		"category": "",
+		"defname": "IGStationaryMBC"
+	},
+	{
+		"abr": "necronaegiswall(blue)",
+		"price": 88,
+		"category": "",
+		"defname": "NEC_Aegis_Blue"
+	},
+	{
+		"abr": "necronaegiswall(green)",
+		"price": 88,
+		"category": "",
+		"defname": "NEC_Aegis_Green"
+	},
+	{
+		"abr": "necronaegiswall(orange)",
+		"price": 88,
+		"category": "",
+		"defname": "NEC_Aegis_Orange"
+	},
+	{
+		"abr": "railgunturret",
+		"price": 8350,
+		"category": "",
+		"defname": "TAURailgun"
+	},
+	{
+		"abr": "smalleldargenerator",
+		"price": 425,
+		"category": "",
+		"defname": "EldGenerator_A_Small"
+	},
+	{
+		"abr": "smallgaussgenerator",
+		"price": 2508,
+		"category": "",
+		"defname": "GaussGenerator_A_Small"
+	},
+	{
+		"abr": "smallimperialgenerator",
+		"price": 1425,
+		"category": "",
+		"defname": "ImpGenerator_A_Small"
+	},
+	{
+		"abr": "smallorkgenerator",
+		"price": 425,
+		"category": "",
+		"defname": "OrkGenerator_A_Small"
+	},
+	{
+		"abr": "smalltaugenerator",
+		"price": 425,
+		"category": "",
+		"defname": "TauGenerator_A_Small"
+	},
+	{
+		"abr": "tarantulaheavybolter",
+		"price": 4117,
+		"category": "",
+		"defname": "IGTarantulaBolter"
+	},
+	{
+		"abr": "tarantulalascannon",
+		"price": 4117,
+		"category": "",
+		"defname": "IGTarantulaLascannon"
+	},
+	{
+		"abr": "tauaegiswall",
+		"price": 20,
+		"category": "",
+		"defname": "TAU_Aegis"
+	},
+	{
+		"abr": "vibrocannonturret",
+		"price": 8308,
+		"category": "",
+		"defname": "ELDVibrocannon"
+	
+	],
+	"total": 1583
 }
