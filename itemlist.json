@@ -1,12 +1,17 @@
 {
-    "items" : [
-    {
-        "abr": "barricade",
-        "price": 29,
-        "category": "",
-        "defname": "WoodenBarricade"
-},
-
+	"items" : [
+	{
+		"abr": "barricade",
+		"price": 29,
+		"category": "",
+		"defname": "WoodenBarricade"
+	},
+	{
+		"abr": "advancedcomponent",
+		"price": 333,
+		"category": "Manufactured",
+		"defname": "ComponentSpacer"
+	},
 	{
 		"abr": "advancedhelmet",
 		"price": 442,
@@ -8689,11 +8694,12 @@
 		"category": "LMG and GPMG",
 		"defname": "RNGun_ZastavaM84LMG"
 	},
-{
-        "abr": "zastavam92",
-        "price": 475,
-        "category": "SMG and PDW",
-        "defname": "RNGun_ZastavaM92_PDW"
-}
-    ], "total": 2427
+	{
+		"abr": "zastavam92",
+		"price": 475,
+		"category": "SMG and PDW",
+		"defname": "RNGun_ZastavaM92_PDW"
+	},
+	]
+	"total": 2427
 }
