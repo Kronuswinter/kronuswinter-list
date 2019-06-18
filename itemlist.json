@@ -1,11 +1,5 @@
-{
-	"items" : [
 	{
-		"abr": "barricade",
-		"price": 29,
-		"category": "",
-		"defname": "WoodenBarricade"
-	},
+
 	{
 		"abr": "advancedcomponent",
 		"price": 333,
@@ -8699,8 +8693,8 @@
         "price": 475,
         "category": "SMG and PDW",
         "defname": "RNGun_ZastavaM92_PDW"
-
+}
     ]
 
-    "total": 2427
+"total": 2427
 
