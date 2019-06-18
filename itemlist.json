@@ -8695,11 +8695,12 @@
 		"defname": "RNGun_ZastavaM84LMG"
 	},
 	{
-		"abr": "zastavam92",
-		"price": 475,
-		"category": "SMG and PDW",
-		"defname": "RNGun_ZastavaM92_PDW"
-	]
-	
-	"total": 2427
+        "abr": "zastavam92",
+        "price": 475,
+        "category": "SMG and PDW",
+        "defname": "RNGun_ZastavaM92_PDW"
+}
+    ]
 
+    "total": 2427
+}
