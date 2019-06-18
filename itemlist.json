@@ -1,11 +1,12 @@
 	{
+    "items" : [
+    {
+        "abr": "barricade",
+        "price": 29,
+        "category": "",
+        "defname": "WoodenBarricade"
+},
 
-	{
-		"abr": "advancedcomponent",
-		"price": 333,
-		"category": "Manufactured",
-		"defname": "ComponentSpacer"
-	},
 	{
 		"abr": "advancedhelmet",
 		"price": 442,
